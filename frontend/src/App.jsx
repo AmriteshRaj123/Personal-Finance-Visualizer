@@ -5,7 +5,7 @@ import MonthlyChart from './components/MonthlyChart';
 import TransactionForm from './components/TransactionForm';
 import TransactionList from './components/TransactionList';
 
-const API_URL = 'http://localhost:5001/api';
+const API_URL = 'https://personal-finance-visualizer-1dz4.onrender.com/api';
 
 function App() {
   const [transactions, setTransactions] = useState([]);
