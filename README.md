@@ -1,5 +1,8 @@
 # Personal Finance Visualizer
 
+
+<img width="649" alt="Screenshot 2025-04-16 at 10 32 38 AM" src="https://github.com/user-attachments/assets/822f5101-eeb1-4f59-9b93-271fe79e0d58" />
+
 A modern web application for tracking and visualizing personal finances. Built with React, Material-UI, and Express.js.
 
 ## Features
